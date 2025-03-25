@@ -1,2 +1,2 @@
 # dhschool
-repo for dh
+repo for dh school
